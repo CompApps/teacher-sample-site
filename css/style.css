@@ -1,0 +1,23 @@
+<style>
+
+body {
+	font-family: helvetica;
+	max-width: 600px;
+}
+p {
+	color: rgba(100, 200, 150, 1);
+	background: red;
+	text-align: justify;
+	line-height: 30px;
+	padding: 20px;
+	position: absolute;
+}
+
+h1 {
+
+}
+
+li {}
+
+
+</style>
